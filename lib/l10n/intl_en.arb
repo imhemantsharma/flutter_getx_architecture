@@ -1,0 +1,9 @@
+{
+  "homepage": "Flutter GetX Architecture",
+  "noNetworkTitle": "Oh Snap",
+  "noNetworkMessage": "Please check your connection and try again",
+  "somethingWentTitle": "Something went wrong!",
+  "somethingWentMessage": "Something went wrong! Please check back later.",
+  "tryAgain": "try again",
+  "noDataFound": "No data found!"
+}
