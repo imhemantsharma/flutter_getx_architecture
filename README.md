@@ -2,8 +2,8 @@
 
 This repository demonstrate the sample app that implements Flutter MVVM architecture using GetX and DIO.
 
-### Sample app UI along with Integration Test Gif:
-<img src="https://user-images.githubusercontent.com/37363651/153410369-8ef0a717-c4a7-4430-a0dc-3ee07eb3b784.jpg" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample_resources/integration_test.gif" width="300"/>
+### Sample app:
+<img src="https://user-images.githubusercontent.com/37363651/153410369-8ef0a717-c4a7-4430-a0dc-3ee07eb3b784.jpg" width="300">
 
 ### Structure in modules
 
@@ -22,3 +22,6 @@ This repository demonstrate the sample app that implements Flutter MVVM architec
 1. **GetX:** https://pub.dev/packages/get
 2. **Dio:** https://pub.dev/packages/dio
 3. **Animation:** https://pub.dev/packages/flutter_staggered_animations
+
+### Integration test result:
+<img src="sample_resources/integration_test.gif" width="300"/>
